@@ -1,5 +1,5 @@
 # ***Jeff Solas***
-### *Pythonista and Machine Learning Enthusiast*
+### *AI Solutions Architect and amateur classical music composer*
 <img src="https://github.com/Thelnar/Lindenmayer-Fractals-Web-App/blob/da9024b0a3400ff35814fe41dbb5ad995322445b/static/Example_Fractal.gif" alt="Tree Fractal" width="500"/>  
 
 > *Gif generated from my [Lindenmeyer Fractals project](https://github.com/Thelnar/Lindenmayer-Fractals-Web-App)*
