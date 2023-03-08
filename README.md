@@ -1,5 +1,5 @@
 # ***Jeff Solas***
-### *AI Solutions Architect and amateur classical music composer*
+### *Data Scientist and amateur classical music composer*
 <img src="static/Example_Fractal.gif" alt="Tree Fractal" width="500"/>  
 
 > *Gif generated from my [Lindenmeyer Fractals project](https://github.com/Thelnar/Lindenmayer-Fractals-Web-App)*
